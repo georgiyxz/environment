@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 58c3776938039974e9751b6b4d9c5010
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - crabPrefab: {instanceID: 0}
+  - krabsWalking: {instanceID: 0}
+  - fishPrefab: {instanceID: 0}
+  - waterSplashSound: {instanceID: 0}
+  - birdPrefab: {instanceID: 0}
+  - hawkScream: {instanceID: 0}
+  - sandcastlePrefab: {fileID: 3649024560983001209, guid: 47218ff1d4c08564f89dcd2d8a24b272, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
